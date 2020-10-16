@@ -4,6 +4,8 @@ This server mannage the users connection to app and create the streaming at azur
 
 # Tecnologies
 
+## node.js
+
 ## MogoDB
 
 # Run Scripts

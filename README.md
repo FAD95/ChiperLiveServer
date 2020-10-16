@@ -6,7 +6,7 @@ This server mannage the users connection to app and create the streaming at azur
 
 ## node.js
 
-## MogoDB
+## MongoDB
 
 # Run Scripts
 
